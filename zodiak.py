@@ -12,7 +12,7 @@ import os
 import json
 from urllib2 import urlopen
 
-Zodiak = """033[1;33m
+Zodiak = """\033[1;33m
 _____         _ _       _
 |__  /___   __| (_) __ _| | __
   / // _ \ / _` | |/ _` | |/ /
